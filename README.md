@@ -158,11 +158,9 @@ F. Reporting and Recommendations: Generate actionable recommendations to optimiz
 - Analyze any demographic-specific issues or concerns, and address them to improve user satisfaction and retention.
 - Consider partnerships or collaborations that appeal to key demographic segments.
 
-  LINK TO PRESENTATION:
+  ## LINK TO POWERBI REPORT:
 
-  ![]()
-
-https://github.com/EngrIBGIT/Optimizing-User-Interactions-for-Supreme-Engagement-/blob/main/Optimizing_User_Interractions.pbix
+  https://github.com/EngrIBGIT/Optimizing-User-Interactions-for-Supreme-Engagement-/blob/main/Optimizing_User_Interractions.pbix
 
 ![](images1.jpeg)
 
