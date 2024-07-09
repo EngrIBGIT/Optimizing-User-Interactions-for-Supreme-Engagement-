@@ -28,6 +28,11 @@ This approach emphasized technical skills and the importance of translating data
 -	Tech Stack
 -	Project Scope
 
+## Business Introduction:
+
+![](Biz_Intro.PNG)
+
+
 ## Business Overview/Problem
 
 Digital Universe Inc. faces a challenge in understanding how users interact with their digital products and services. They need to identify patterns, bottlenecks, and areas of improvement to optimize user engagement and experience. Without this understanding, the company risks losing customers to competitors and missing out on opportunities for growth.
