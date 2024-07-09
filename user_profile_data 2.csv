@@ -1,0 +1,501 @@
+UserID,Name,Email,Age,Location,Sept_sub_type,Recurring Logins,Aug_sub_type
+1,George Brooks,george.brooks@yipa.com,65,Accra,Free,4,Free
+2,Todd Sexton,todd.sexton@yipa.com,28,Nairobi,Free,5,Free
+3,Christopher Jarvis,christopher.jarvis@yipa.com,24,Nairobi,Free,3,Digital Universe+
+4,Andrea Torres,andrea.torres@yipa.com,21,Accra,Digital Universe+,1,Free
+5,Nicole Snow,nicole.snow@yipa.com,30,Kumasi,Free,1,Free
+6,Jessica King,jessica.king@yipa.com,19,Mombasa,Digital Universe+,2,Digital Universe+
+7,Nicholas Sims,nicholas.sims@yipa.com,52,Nairobi,Free,5,Digital Universe+
+8,David Perez,david.perez@yipa.com,39,Abuja,Digital Universe+,5,Digital Universe+
+9,Steven Kirby,steven.kirby@yipa.com,26,Lagos,Free,4,Digital Universe+
+10,Tanya Stout,tanya.stout@yipa.com,30,Accra,Free,4,Digital Universe+
+11,Amy Moon,amy.moon@yipa.com,55,Lagos,Free,2,Free
+12,Mary Erickson,mary.erickson@yipa.com,25,Accra,Digital Universe+,3,Digital Universe+
+13,Christina Smith,christina.smith@yipa.com,39,Mombasa,Free,5,Free
+14,Tanner Diaz,tanner.diaz@yipa.com,35,Mombasa,Free,4,Digital Universe+
+15,Barbara Adkins,barbara.adkins@yipa.com,20,Nairobi,Free,4,Digital Universe+
+16,David Howard,david.howard@yipa.com,22,Accra,Free,5,Digital Universe+
+17,Laura Myers,laura.myers@yipa.com,28,Nairobi,Free,3,Digital Universe+
+18,Angela Lawson,angela.lawson@yipa.com,19,Accra,Digital Universe+,4,Free
+19,Anna Miller,anna.miller@yipa.com,22,Nairobi,Digital Universe+,5,Free
+20,Aaron Smith,aaron.smith@yipa.com,29,Accra,Digital Universe+,2,Digital Universe+
+21,Robert Brooks,robert.brooks@yipa.com,18,Accra,Digital Universe+,4,Digital Universe+
+22,Christopher Cole,christopher.cole@yipa.com,41,Accra,Free,4,Free
+23,Adam Spencer,adam.spencer@yipa.com,50,Lagos,Free,5,Digital Universe+
+24,Donald Walker,donald.walker@yipa.com,51,Abuja,Free,4,Free
+25,Shawn Mooney,shawn.mooney@yipa.com,34,Nairobi,Free,4,Digital Universe+
+26,Steven Bailey,steven.bailey@yipa.com,30,Nairobi,Free,4,Digital Universe+
+27,Charlotte Taylor,charlotte.taylor@yipa.com,45,Accra,Free,4,Digital Universe+
+28,Kara Russell,kara.russell@yipa.com,18,Lagos,Free,2,Digital Universe+
+29,Heidi Gray,heidi.gray@yipa.com,25,Accra,Free,4,Digital Universe+
+30,Justin Gregory,justin.gregory@yipa.com,19,Lagos,Digital Universe+,5,Free
+31,Jennifer Johnson,jennifer.johnson@yipa.com,19,Nairobi,Free,1,Free
+32,Susan Byrd,susan.byrd@yipa.com,31,Lagos,Digital Universe+,2,Free
+33,Patricia Montgomery,patricia.montgomery@yipa.com,21,Mombasa,Digital Universe+,1,Free
+34,Geoffrey Ramirez,geoffrey.ramirez@yipa.com,26,Abuja,Free,4,Digital Universe+
+35,Teresa Mendoza,teresa.mendoza@yipa.com,25,Abuja,Free,4,Digital Universe+
+36,Christian Page,christian.page@yipa.com,65,Abuja,Free,3,Digital Universe+
+37,Melanie Brown,melanie.brown@yipa.com,30,Abuja,Digital Universe+,4,Free
+38,Jesse Smith,jesse.smith@yipa.com,23,Accra,Free,2,Free
+39,Heather Johnson,heather.johnson@yipa.com,63,Nairobi,Digital Universe+,1,Free
+40,Angela Warner,angela.warner@yipa.com,29,Nairobi,Free,5,Free
+41,Rhonda Reese,rhonda.reese@yipa.com,24,Accra,Free,4,Free
+42,Joseph Ellison,joseph.ellison@yipa.com,26,Mombasa,Free,5,Free
+43,Dennis Phillips,dennis.phillips@yipa.com,22,Accra,Free,3,Free
+44,George Hoover,george.hoover@yipa.com,30,Lagos,Digital Universe+,5,Free
+45,Mark White,mark.white@yipa.com,26,Accra,Digital Universe+,2,Digital Universe+
+46,Caitlin Walker,caitlin.walker@yipa.com,62,Nairobi,Digital Universe+,3,Digital Universe+
+47,Molly Johnson,molly.johnson@yipa.com,56,Accra,Free,5,Free
+48,Jim Bass,jim.bass@yipa.com,21,Accra,Digital Universe+,4,Free
+49,James Wilkins,james.wilkins@yipa.com,24,Kumasi,Free,3,Free
+50,Cynthia Ramirez,cynthia.ramirez@yipa.com,27,Nairobi,Digital Universe+,4,Free
+51,Erica Shepard,erica.shepard@yipa.com,22,Accra,Free,4,Digital Universe+
+52,Pedro Gray,pedro.gray@yipa.com,33,Lagos,Digital Universe+,1,Digital Universe+
+53,Eric Bell,eric.bell@yipa.com,29,Lagos,Digital Universe+,4,Free
+54,Collin York,collin.york@yipa.com,28,Nairobi,Digital Universe+,4,Digital Universe+
+55,Sarah Flores,sarah.flores@yipa.com,59,Nairobi,Digital Universe+,5,Free
+56,Michelle Mejia,michelle.mejia@yipa.com,40,Nairobi,Free,3,Digital Universe+
+57,Barbara Hall,barbara.hall@yipa.com,21,Lagos,Free,1,Digital Universe+
+58,Charles Stephens,charles.stephens@yipa.com,55,Accra,Free,4,Free
+59,Kevin Ruiz,kevin.ruiz@yipa.com,25,Kumasi,Free,1,Digital Universe+
+60,Walter Estrada,walter.estrada@yipa.com,51,Mombasa,Free,5,Free
+61,Stephen Miller,stephen.miller@yipa.com,20,Abuja,Free,5,Free
+62,Lindsey Stanley,lindsey.stanley@yipa.com,24,Abuja,Digital Universe+,5,Free
+63,Joel Blair,joel.blair@yipa.com,22,Accra,Free,3,Digital Universe+
+64,Ronald Hall,ronald.hall@yipa.com,37,Lagos,Free,1,Free
+65,April Contreras,april.contreras@yipa.com,30,Lagos,Free,3,Digital Universe+
+66,Joseph Rose,joseph.rose@yipa.com,49,Nairobi,Free,4,Digital Universe+
+67,Scott Howell,scott.howell@yipa.com,39,Accra,Digital Universe+,5,Digital Universe+
+68,David Meyer,david.meyer@yipa.com,36,Lagos,Free,5,Digital Universe+
+69,Robert Robinson,robert.robinson@yipa.com,27,Kumasi,Free,5,Free
+70,Tina Williams,tina.williams@yipa.com,19,Lagos,Free,5,Digital Universe+
+71,Chase Hill,chase.hill@yipa.com,18,Accra,Free,4,Digital Universe+
+72,Megan Turner,megan.turner@yipa.com,64,Lagos,Digital Universe+,4,Free
+73,Ariel Robbins,ariel.robbins@yipa.com,19,Mombasa,Free,4,Digital Universe+
+74,Julia Cordova,julia.cordova@yipa.com,18,Mombasa,Free,4,Free
+75,Alyssa Gardner,alyssa.gardner@yipa.com,30,Lagos,Free,5,Digital Universe+
+76,Terry Lopez,terry.lopez@yipa.com,29,Accra,Free,3,Free
+77,Kimberly Brown,kimberly.brown@yipa.com,27,Mombasa,Free,3,Free
+78,Joseph Mcdonald,joseph.mcdonald@yipa.com,27,Accra,Free,4,Free
+79,Rita Walsh,rita.walsh@yipa.com,21,Accra,Digital Universe+,5,Free
+80,Shane Price,shane.price@yipa.com,25,Lagos,Digital Universe+,4,Free
+81,Matthew Johnson,matthew.johnson@yipa.com,25,Abuja,Free,5,Digital Universe+
+82,Jennifer Butler,jennifer.butler@yipa.com,25,Abuja,Free,5,Free
+83,John Martinez,john.martinez@yipa.com,25,Nairobi,Free,4,Free
+84,Christopher Potts,christopher.potts@yipa.com,40,Accra,Digital Universe+,5,Free
+85,Mark Green,mark.green@yipa.com,20,Kumasi,Free,4,Digital Universe+
+86,Veronica Lee,veronica.lee@yipa.com,27,Nairobi,Free,5,Free
+87,Keith Holland,keith.holland@yipa.com,28,Kumasi,Digital Universe+,2,Digital Universe+
+88,Rebecca Sharp,rebecca.sharp@yipa.com,30,Lagos,Digital Universe+,5,Digital Universe+
+89,Vicki Powell,vicki.powell@yipa.com,30,Accra,Digital Universe+,5,Free
+90,Cynthia Jennings,cynthia.jennings@yipa.com,29,Abuja,Free,1,Digital Universe+
+91,Aaron Rodriguez,aaron.rodriguez@yipa.com,52,Kumasi,Digital Universe+,4,Free
+92,Seth Coleman,seth.coleman@yipa.com,25,Lagos,Digital Universe+,4,Free
+93,Paul Nelson,paul.nelson@yipa.com,19,Nairobi,Free,4,Digital Universe+
+94,Amy Taylor,amy.taylor@yipa.com,28,Nairobi,Free,1,Digital Universe+
+95,Brandon Crosby,brandon.crosby@yipa.com,35,Lagos,Digital Universe+,2,Free
+96,Michael Cook,michael.cook@yipa.com,20,Accra,Free,4,Free
+97,Lucas Rodriguez,lucas.rodriguez@yipa.com,55,Mombasa,Free,1,Digital Universe+
+98,Jennifer Herrera,jennifer.herrera@yipa.com,49,Lagos,Free,4,Digital Universe+
+99,Matthew Jones,matthew.jones@yipa.com,22,Mombasa,Free,5,Digital Universe+
+100,Lisa Montoya,lisa.montoya@yipa.com,29,Nairobi,Digital Universe+,3,Digital Universe+
+101,Barbara Mcmillan,barbara.mcmillan@yipa.com,49,Lagos,Free,5,Free
+102,Jeremy Robbins,jeremy.robbins@yipa.com,30,Accra,Free,5,Free
+103,Mary Smith,mary.smith@yipa.com,35,Kumasi,Free,5,Free
+104,Amy Walker,amy.walker@yipa.com,33,Abuja,Free,3,Free
+105,Steven Warren,steven.warren@yipa.com,64,Abuja,Free,5,Digital Universe+
+106,Sheena Morgan,sheena.morgan@yipa.com,30,Mombasa,Free,4,Free
+107,Richard Hunter,richard.hunter@yipa.com,58,Accra,Free,1,Free
+108,Janet Sawyer,janet.sawyer@yipa.com,24,Mombasa,Digital Universe+,4,Free
+109,Anthony Jackson,anthony.jackson@yipa.com,18,Accra,Free,5,Free
+110,Alan Evans,alan.evans@yipa.com,21,Accra,Free,2,Free
+111,Julie Moore,julie.moore@yipa.com,21,Mombasa,Free,4,Free
+112,Aaron Carter,aaron.carter@yipa.com,20,Lagos,Free,4,Digital Universe+
+113,Donna Garcia,donna.garcia@yipa.com,51,Lagos,Digital Universe+,5,Digital Universe+
+114,Gregory Lowery,gregory.lowery@yipa.com,28,Abuja,Free,3,Free
+115,Courtney Adams,courtney.adams@yipa.com,33,Nairobi,Free,5,Digital Universe+
+116,James Smith,james.smith@yipa.com,47,Lagos,Free,5,Digital Universe+
+117,Cheyenne Patel,cheyenne.patel@yipa.com,48,Lagos,Free,5,Free
+118,Kim Brown,kim.brown@yipa.com,25,Nairobi,Digital Universe+,4,Free
+119,Larry Perry,larry.perry@yipa.com,21,Abuja,Free,4,Free
+120,Melissa Brennan,melissa.brennan@yipa.com,63,Lagos,Free,4,Free
+121,Jeremy Chan,jeremy.chan@yipa.com,29,Lagos,Digital Universe+,4,Digital Universe+
+122,Jennifer Benson,jennifer.benson@yipa.com,28,Nairobi,Free,5,Free
+123,Alicia Lin,alicia.lin@yipa.com,23,Mombasa,Digital Universe+,4,Free
+124,Alex Perez,alex.perez@yipa.com,49,Accra,Free,3,Free
+125,Ryan Martinez,ryan.martinez@yipa.com,21,Accra,Free,5,Free
+126,Shirley Watts,shirley.watts@yipa.com,26,Kumasi,Digital Universe+,2,Free
+127,Mark Silva,mark.silva@yipa.com,28,Nairobi,Free,4,Free
+128,Bianca Edwards,bianca.edwards@yipa.com,24,Kumasi,Free,5,Digital Universe+
+129,Steven Harris,steven.harris@yipa.com,61,Nairobi,Digital Universe+,2,Digital Universe+
+130,Ashley Garcia,ashley.garcia@yipa.com,18,Kumasi,Digital Universe+,4,Digital Universe+
+131,David Khan,david.khan@yipa.com,28,Accra,Free,5,Free
+132,Robert Beasley,robert.beasley@yipa.com,45,Lagos,Free,2,Digital Universe+
+133,Emily Nichols,emily.nichols@yipa.com,47,Lagos,Free,5,Digital Universe+
+134,Jim Clark,jim.clark@yipa.com,26,Kumasi,Free,5,Digital Universe+
+135,Brenda Ashley,brenda.ashley@yipa.com,47,Lagos,Free,3,Free
+136,Amanda Rhodes,amanda.rhodes@yipa.com,40,Accra,Free,5,Digital Universe+
+137,Lisa Munoz,lisa.munoz@yipa.com,20,Abuja,Free,5,Free
+138,Nicole Smith,nicole.smith@yipa.com,20,Accra,Free,4,Free
+139,April Robertson,april.robertson@yipa.com,25,Accra,Digital Universe+,5,Free
+140,Kelsey Freeman,kelsey.freeman@yipa.com,24,Lagos,Free,3,Digital Universe+
+141,Stacey Walker,stacey.walker@yipa.com,22,Lagos,Digital Universe+,4,Digital Universe+
+142,Stephen Olson,stephen.olson@yipa.com,48,Lagos,Free,5,Free
+143,Lori Matthews,lori.matthews@yipa.com,51,Accra,Digital Universe+,5,Digital Universe+
+144,Jose Sanchez,jose.sanchez@yipa.com,23,Accra,Free,4,Free
+145,Amy Wright,amy.wright@yipa.com,26,Mombasa,Free,5,Free
+146,Teresa Martinez,teresa.martinez@yipa.com,29,Mombasa,Free,3,Digital Universe+
+147,Jennifer Smith,jennifer.smith@yipa.com,28,Nairobi,Free,4,Digital Universe+
+148,Keith Burke,keith.burke@yipa.com,30,Mombasa,Digital Universe+,1,Free
+149,Yolanda Thomas,yolanda.thomas@yipa.com,29,Mombasa,Free,2,Free
+150,Christina Lopez,christina.lopez@yipa.com,24,Lagos,Free,5,Free
+151,Jose Gilmore,jose.gilmore@yipa.com,43,Lagos,Digital Universe+,3,Free
+152,Andrew Smith,andrew.smith@yipa.com,22,Kumasi,Free,4,Free
+153,Sue Moore,sue.moore@yipa.com,18,Abuja,Digital Universe+,1,Digital Universe+
+154,Thomas Hatfield,thomas.hatfield@yipa.com,59,Nairobi,Digital Universe+,4,Digital Universe+
+155,Amanda Lee,amanda.lee@yipa.com,27,Lagos,Digital Universe+,5,Digital Universe+
+156,James Butler,james.butler@yipa.com,26,Accra,Digital Universe+,2,Digital Universe+
+157,Alexandra Prince,alexandra.prince@yipa.com,27,Mombasa,Free,3,Digital Universe+
+158,Sandra Reid,sandra.reid@yipa.com,20,Lagos,Digital Universe+,3,Digital Universe+
+159,Colleen Hunter,colleen.hunter@yipa.com,19,Abuja,Free,2,Free
+160,Joshua Grant,joshua.grant@yipa.com,22,Accra,Free,5,Digital Universe+
+161,Jacqueline Padilla,jacqueline.padilla@yipa.com,26,Abuja,Free,1,Free
+162,Nichole Graham,nichole.graham@yipa.com,24,Accra,Free,3,Digital Universe+
+163,Susan Stafford,susan.stafford@yipa.com,22,Kumasi,Free,5,Free
+164,Sarah Page,sarah.page@yipa.com,29,Lagos,Free,5,Free
+165,Jeffrey Dorsey,jeffrey.dorsey@yipa.com,30,Abuja,Free,5,Digital Universe+
+166,Susan Hernandez,susan.hernandez@yipa.com,25,Accra,Free,5,Free
+167,Angela Douglas,angela.douglas@yipa.com,29,Nairobi,Free,5,Free
+168,David Casey,david.casey@yipa.com,30,Abuja,Free,4,Free
+169,Samuel Fleming,samuel.fleming@yipa.com,25,Mombasa,Free,4,Free
+170,Wanda Davis,wanda.davis@yipa.com,24,Accra,Digital Universe+,5,Free
+171,Catherine Avery,catherine.avery@yipa.com,19,Lagos,Digital Universe+,5,Digital Universe+
+172,Felicia Chavez,felicia.chavez@yipa.com,22,Abuja,Free,4,Digital Universe+
+173,Alyssa Watson,alyssa.watson@yipa.com,39,Accra,Free,4,Free
+174,Dakota Haynes,dakota.haynes@yipa.com,38,Accra,Free,4,Free
+175,Blake Johnson,blake.johnson@yipa.com,35,Abuja,Digital Universe+,4,Free
+176,Kayla Cannon,kayla.cannon@yipa.com,47,Mombasa,Digital Universe+,5,Digital Universe+
+177,Leah Moon,leah.moon@yipa.com,30,Abuja,Digital Universe+,4,Free
+178,Christopher Anderson,christopher.anderson@yipa.com,20,Kumasi,Free,4,Free
+179,Jill Gibbs,jill.gibbs@yipa.com,27,Abuja,Digital Universe+,5,Digital Universe+
+180,Thomas Stewart,thomas.stewart@yipa.com,21,Lagos,Free,5,Free
+181,Kathryn Nichols,kathryn.nichols@yipa.com,20,Mombasa,Free,4,Free
+182,Tyler Page,tyler.page@yipa.com,29,Lagos,Free,4,Free
+183,Steven West,steven.west@yipa.com,19,Mombasa,Free,4,Free
+184,Joseph Gray,joseph.gray@yipa.com,54,Lagos,Free,4,Digital Universe+
+185,Tasha Key,tasha.key@yipa.com,24,Abuja,Digital Universe+,5,Digital Universe+
+186,Susan Chavez,susan.chavez@yipa.com,26,Abuja,Free,4,Digital Universe+
+187,Tammy Hansen,tammy.hansen@yipa.com,27,Nairobi,Free,3,Free
+188,Tara Gallegos,tara.gallegos@yipa.com,60,Mombasa,Free,4,Free
+189,Sonya Thompson,sonya.thompson@yipa.com,22,Lagos,Digital Universe+,3,Free
+190,Neil Chandler,neil.chandler@yipa.com,20,Abuja,Free,5,Digital Universe+
+191,Angela Bryant,angela.bryant@yipa.com,28,Abuja,Free,4,Free
+192,Jeremy Gregory,jeremy.gregory@yipa.com,26,Accra,Free,3,Free
+193,Kelly Bartlett,kelly.bartlett@yipa.com,25,Kumasi,Free,5,Free
+194,Adam Brewer,adam.brewer@yipa.com,65,Nairobi,Digital Universe+,4,Free
+195,Gary Taylor,gary.taylor@yipa.com,53,Lagos,Digital Universe+,2,Free
+196,Sheila Walker,sheila.walker@yipa.com,26,Abuja,Digital Universe+,4,Digital Universe+
+197,Shane Bell,shane.bell@yipa.com,49,Mombasa,Free,4,Digital Universe+
+198,Charles Brandt,charles.brandt@yipa.com,54,Accra,Free,3,Free
+199,Nicole Mora,nicole.mora@yipa.com,20,Accra,Free,3,Digital Universe+
+200,Leslie Frazier,leslie.frazier@yipa.com,39,Accra,Free,5,Free
+201,Jennifer Morton,jennifer.morton@yipa.com,24,Nairobi,Digital Universe+,4,Digital Universe+
+202,Jeremy Valenzuela,jeremy.valenzuela@yipa.com,30,Lagos,Digital Universe+,4,Free
+203,Sarah Bentley,sarah.bentley@yipa.com,38,Nairobi,Digital Universe+,4,Digital Universe+
+204,Sarah Love,sarah.love@yipa.com,23,Accra,Free,4,Free
+205,Juan Alvarado,juan.alvarado@yipa.com,18,Lagos,Digital Universe+,3,Free
+206,Adrian West,adrian.west@yipa.com,26,Nairobi,Free,2,Free
+207,Todd Banks,todd.banks@yipa.com,18,Accra,Free,4,Digital Universe+
+208,James Wright,james.wright@yipa.com,48,Accra,Digital Universe+,4,Free
+209,Adam Terry,adam.terry@yipa.com,23,Mombasa,Digital Universe+,5,Digital Universe+
+210,Eric Allison,eric.allison@yipa.com,22,Lagos,Free,5,Digital Universe+
+211,Shari Best,shari.best@yipa.com,28,Lagos,Digital Universe+,1,Free
+212,Adam Gardner,adam.gardner@yipa.com,22,Nairobi,Free,4,Free
+213,Jon Bowman,jon.bowman@yipa.com,62,Kumasi,Free,4,Digital Universe+
+214,Melissa Brewer,melissa.brewer@yipa.com,28,Nairobi,Free,5,Free
+215,Lisa Price,lisa.price@yipa.com,26,Lagos,Free,5,Free
+216,Timothy Carney,timothy.carney@yipa.com,18,Mombasa,Free,3,Digital Universe+
+217,Elizabeth Marshall,elizabeth.marshall@yipa.com,24,Lagos,Free,4,Digital Universe+
+218,Abigail Roach,abigail.roach@yipa.com,36,Mombasa,Free,5,Digital Universe+
+219,Anna Brewer,anna.brewer@yipa.com,35,Abuja,Free,4,Free
+220,Jim Nguyen,jim.nguyen@yipa.com,20,Mombasa,Free,1,Free
+221,Crystal Weaver,crystal.weaver@yipa.com,19,Accra,Free,4,Free
+222,Marie Richardson,marie.richardson@yipa.com,32,Lagos,Free,4,Free
+223,Jill Clayton,jill.clayton@yipa.com,52,Abuja,Digital Universe+,4,Free
+224,Amber Martin,amber.martin@yipa.com,59,Accra,Digital Universe+,4,Free
+225,Scott Roberts,scott.roberts@yipa.com,24,Abuja,Free,4,Free
+226,Laura Thompson,laura.thompson@yipa.com,38,Kumasi,Free,5,Digital Universe+
+227,Michael Stephens,michael.stephens@yipa.com,25,Abuja,Free,5,Free
+228,Mark Hogan,mark.hogan@yipa.com,28,Lagos,Free,3,Free
+229,Nicholas Burgess,nicholas.burgess@yipa.com,64,Mombasa,Free,4,Digital Universe+
+230,Carol Robinson,carol.robinson@yipa.com,44,Accra,Free,4,Free
+231,James Lloyd,james.lloyd@yipa.com,49,Lagos,Digital Universe+,4,Digital Universe+
+232,Elizabeth Vargas,elizabeth.vargas@yipa.com,29,Kumasi,Free,3,Free
+233,Alexander Hobbs,alexander.hobbs@yipa.com,62,Accra,Free,3,Free
+234,Lisa Johnson,lisa.johnson@yipa.com,30,Accra,Free,3,Free
+235,Dale Lamb,dale.lamb@yipa.com,18,Abuja,Digital Universe+,4,Free
+236,Anthony Howell,anthony.howell@yipa.com,50,Accra,Digital Universe+,2,Free
+237,Kenneth Davis,kenneth.davis@yipa.com,30,Abuja,Free,4,Free
+238,Samantha Lee,samantha.lee@yipa.com,23,Mombasa,Digital Universe+,4,Free
+239,Amy Campbell,amy.campbell@yipa.com,62,Nairobi,Free,4,Free
+240,Joseph Cohen,joseph.cohen@yipa.com,62,Nairobi,Free,3,Free
+241,Heather Williams,heather.williams@yipa.com,34,Kumasi,Free,4,Digital Universe+
+242,Melissa Hunter,melissa.hunter@yipa.com,30,Accra,Digital Universe+,5,Free
+243,Hector Smith,hector.smith@yipa.com,24,Accra,Free,5,Digital Universe+
+244,Jon Thomas,jon.thomas@yipa.com,27,Lagos,Digital Universe+,3,Free
+245,Vernon Rasmussen,vernon.rasmussen@yipa.com,26,Accra,Free,5,Free
+246,Rita Chandler,rita.chandler@yipa.com,28,Accra,Free,4,Free
+247,Tara Wolf,tara.wolf@yipa.com,23,Abuja,Free,3,Free
+248,Andrew Patel,andrew.patel@yipa.com,63,Abuja,Digital Universe+,3,Free
+249,Luis Huff,luis.huff@yipa.com,30,Abuja,Free,3,Digital Universe+
+250,Caitlin Foster,caitlin.foster@yipa.com,19,Abuja,Free,2,Digital Universe+
+251,Heather Brown,heather.brown@yipa.com,19,Lagos,Free,3,Free
+252,Brittany Hanna,brittany.hanna@yipa.com,26,Nairobi,Free,5,Digital Universe+
+253,Ryan Russell,ryan.russell@yipa.com,31,Mombasa,Free,5,Free
+254,Katherine Arnold,katherine.arnold@yipa.com,42,Abuja,Free,5,Free
+255,Maria Bennett,maria.bennett@yipa.com,25,Nairobi,Free,3,Digital Universe+
+256,Ryan Sawyer,ryan.sawyer@yipa.com,21,Lagos,Free,3,Free
+257,Lisa Horn,lisa.horn@yipa.com,39,Accra,Digital Universe+,5,Free
+258,Jonathan Mclaughlin,jonathan.mclaughlin@yipa.com,25,Nairobi,Free,4,Free
+259,William Strong,william.strong@yipa.com,27,Kumasi,Digital Universe+,1,Free
+260,Justin Morgan,justin.morgan@yipa.com,24,Nairobi,Free,3,Digital Universe+
+261,Raymond Carpenter,raymond.carpenter@yipa.com,18,Accra,Digital Universe+,3,Digital Universe+
+262,Tonya Brooks,tonya.brooks@yipa.com,30,Abuja,Digital Universe+,2,Free
+263,Kevin Russell,kevin.russell@yipa.com,22,Accra,Free,4,Digital Universe+
+264,Brittany Sanchez,brittany.sanchez@yipa.com,18,Nairobi,Digital Universe+,5,Digital Universe+
+265,James Ortega,james.ortega@yipa.com,30,Lagos,Free,4,Free
+266,Kevin Clark,kevin.clark@yipa.com,27,Lagos,Free,5,Free
+267,Tim Williams,tim.williams@yipa.com,27,Abuja,Free,1,Digital Universe+
+268,Traci Hayes,traci.hayes@yipa.com,40,Lagos,Free,1,Free
+269,Melissa Nguyen,melissa.nguyen@yipa.com,24,Lagos,Free,4,Free
+270,Melanie Patel,melanie.patel@yipa.com,30,Nairobi,Free,3,Free
+271,John Diaz,john.diaz@yipa.com,24,Accra,Free,2,Free
+272,Erica Green,erica.green@yipa.com,63,Accra,Free,4,Free
+273,Jonathan Hodges,jonathan.hodges@yipa.com,22,Accra,Free,5,Free
+274,Joseph Green,joseph.green@yipa.com,34,Lagos,Free,4,Digital Universe+
+275,Matthew Rice,matthew.rice@yipa.com,18,Accra,Free,4,Digital Universe+
+276,Christina Chapman,christina.chapman@yipa.com,37,Mombasa,Free,5,Free
+277,Rose Reyes,rose.reyes@yipa.com,65,Lagos,Free,4,Free
+278,Gabriela Raymond,gabriela.raymond@yipa.com,34,Abuja,Free,4,Free
+279,Anthony Murray,anthony.murray@yipa.com,22,Nairobi,Free,4,Free
+280,Tasha Hurst,tasha.hurst@yipa.com,51,Abuja,Free,3,Digital Universe+
+281,Natalie Odonnell,natalie.odonnell@yipa.com,29,Accra,Free,4,Free
+282,Kenneth Castro,kenneth.castro@yipa.com,64,Mombasa,Digital Universe+,5,Free
+283,Andrea Moore,andrea.moore@yipa.com,60,Accra,Free,4,Free
+284,Ronnie Osborne,ronnie.osborne@yipa.com,28,Nairobi,Digital Universe+,5,Digital Universe+
+285,Emily Cunningham,emily.cunningham@yipa.com,51,Abuja,Free,4,Free
+286,Bonnie Dunlap,bonnie.dunlap@yipa.com,20,Lagos,Free,1,Free
+287,Donna Smith,donna.smith@yipa.com,49,Kumasi,Free,3,Digital Universe+
+288,Michelle Shepard,michelle.shepard@yipa.com,25,Lagos,Free,1,Free
+289,Brianna White,brianna.white@yipa.com,33,Kumasi,Digital Universe+,1,Free
+290,Linda Jennings,linda.jennings@yipa.com,28,Abuja,Digital Universe+,4,Digital Universe+
+291,Stephanie Jackson,stephanie.jackson@yipa.com,26,Nairobi,Free,5,Free
+292,Marie Melendez,marie.melendez@yipa.com,52,Abuja,Digital Universe+,4,Free
+293,James Morris,james.morris@yipa.com,22,Lagos,Free,4,Digital Universe+
+294,William Moran,william.moran@yipa.com,39,Lagos,Free,4,Free
+295,Benjamin Martin,benjamin.martin@yipa.com,19,Lagos,Free,3,Free
+296,Amy Gross,amy.gross@yipa.com,18,Abuja,Free,4,Digital Universe+
+297,Phyllis Gomez,phyllis.gomez@yipa.com,25,Kumasi,Digital Universe+,4,Digital Universe+
+298,Courtney Jimenez,courtney.jimenez@yipa.com,21,Lagos,Free,5,Free
+299,Amber Michael,amber.michael@yipa.com,28,Abuja,Free,4,Digital Universe+
+300,Carlos Martinez,carlos.martinez@yipa.com,34,Mombasa,Digital Universe+,5,Digital Universe+
+301,Jasmine Smith,jasmine.smith@yipa.com,24,Nairobi,Digital Universe+,4,Free
+302,Sean Kane,sean.kane@yipa.com,25,Kumasi,Free,5,Digital Universe+
+303,Denise Allen,denise.allen@yipa.com,47,Abuja,Free,5,Free
+304,Donald Tran,donald.tran@yipa.com,52,Mombasa,Free,5,Free
+305,Brendan Mendoza,brendan.mendoza@yipa.com,34,Mombasa,Free,4,Free
+306,Ashlee Trujillo,ashlee.trujillo@yipa.com,28,Kumasi,Digital Universe+,2,Free
+307,Angela Benitez,angela.benitez@yipa.com,21,Lagos,Digital Universe+,4,Free
+308,Mary Reynolds,mary.reynolds@yipa.com,18,Mombasa,Free,5,Free
+309,Annette Ferguson,annette.ferguson@yipa.com,57,Kumasi,Free,4,Digital Universe+
+310,Nicole Brewer,nicole.brewer@yipa.com,27,Mombasa,Free,5,Free
+311,Marcus Martinez,marcus.martinez@yipa.com,60,Nairobi,Free,2,Digital Universe+
+312,Richard Todd,richard.todd@yipa.com,53,Accra,Free,5,Free
+313,Kenneth Evans,kenneth.evans@yipa.com,24,Lagos,Digital Universe+,5,Digital Universe+
+314,Craig Martinez,craig.martinez@yipa.com,22,Kumasi,Free,5,Free
+315,Reginald Mcbride,reginald.mcbride@yipa.com,50,Accra,Digital Universe+,3,Digital Universe+
+316,Heidi Buck,heidi.buck@yipa.com,33,Lagos,Digital Universe+,4,Digital Universe+
+317,Christopher Miller,christopher.miller@yipa.com,20,Abuja,Digital Universe+,3,Digital Universe+
+318,Phillip Sutton,phillip.sutton@yipa.com,63,Accra,Free,4,Free
+319,Craig Greene,craig.greene@yipa.com,56,Nairobi,Digital Universe+,3,Free
+320,Ana Brooks,ana.brooks@yipa.com,31,Lagos,Free,5,Digital Universe+
+321,Barbara Thompson,barbara.thompson@yipa.com,28,Mombasa,Free,3,Free
+322,Joseph Thomas,joseph.thomas@yipa.com,24,Mombasa,Digital Universe+,5,Digital Universe+
+323,Peter Jones,peter.jones@yipa.com,63,Lagos,Digital Universe+,2,Free
+324,James Lester,james.lester@yipa.com,30,Lagos,Free,4,Free
+325,Amber Schmidt,amber.schmidt@yipa.com,35,Lagos,Free,5,Free
+326,Zachary Barber,zachary.barber@yipa.com,44,Nairobi,Free,5,Digital Universe+
+327,Monica Mason,monica.mason@yipa.com,29,Lagos,Free,4,Digital Universe+
+328,Morgan Gardner,morgan.gardner@yipa.com,24,Kumasi,Free,1,Free
+329,Richard Holmes,richard.holmes@yipa.com,22,Abuja,Free,4,Digital Universe+
+330,Ryan Williams,ryan.williams@yipa.com,23,Kumasi,Free,3,Digital Universe+
+331,Anna Nunez,anna.nunez@yipa.com,28,Lagos,Digital Universe+,2,Digital Universe+
+332,Janet Smith,janet.smith@yipa.com,22,Kumasi,Free,3,Free
+333,Cynthia Morris,cynthia.morris@yipa.com,26,Kumasi,Free,4,Digital Universe+
+334,Jose Mitchell,jose.mitchell@yipa.com,26,Lagos,Free,2,Digital Universe+
+335,Gary Grant,gary.grant@yipa.com,21,Nairobi,Free,4,Free
+336,Elizabeth Maldonado,elizabeth.maldonado@yipa.com,60,Mombasa,Free,4,Free
+337,Mitchell Taylor,mitchell.taylor@yipa.com,30,Accra,Free,5,Free
+338,Benjamin Davis,benjamin.davis@yipa.com,29,Abuja,Free,2,Free
+339,Matthew Nguyen,matthew.nguyen@yipa.com,25,Abuja,Digital Universe+,4,Free
+340,Christopher Hernandez,christopher.hernandez@yipa.com,26,Nairobi,Free,5,Digital Universe+
+341,Michael Bryant,michael.bryant@yipa.com,18,Lagos,Free,4,Free
+342,Christopher Hanson,christopher.hanson@yipa.com,27,Lagos,Free,5,Digital Universe+
+343,Matthew Smith,matthew.smith@yipa.com,22,Accra,Free,4,Free
+344,Heather Wilson,heather.wilson@yipa.com,55,Lagos,Free,5,Digital Universe+
+345,Crystal Chang,crystal.chang@yipa.com,40,Mombasa,Digital Universe+,4,Free
+346,Ashley Henderson,ashley.henderson@yipa.com,24,Lagos,Free,4,Free
+347,Taylor Greer,taylor.greer@yipa.com,18,Accra,Digital Universe+,4,Free
+348,Sandra Howard,sandra.howard@yipa.com,29,Accra,Digital Universe+,1,Digital Universe+
+349,Amy Cox,amy.cox@yipa.com,18,Mombasa,Free,4,Free
+350,Amanda Hart,amanda.hart@yipa.com,39,Kumasi,Digital Universe+,4,Digital Universe+
+351,Nathaniel Bowers,nathaniel.bowers@yipa.com,41,Accra,Digital Universe+,4,Free
+352,Samuel Thompson,samuel.thompson@yipa.com,21,Abuja,Free,3,Free
+353,Bryce White,bryce.white@yipa.com,28,Nairobi,Free,2,Digital Universe+
+354,Andrea Hernandez,andrea.hernandez@yipa.com,29,Abuja,Digital Universe+,5,Digital Universe+
+355,James Wilkerson,james.wilkerson@yipa.com,22,Lagos,Digital Universe+,4,Free
+356,Jason Romero,jason.romero@yipa.com,30,Lagos,Free,4,Free
+357,Danielle Ortiz,danielle.ortiz@yipa.com,26,Abuja,Digital Universe+,1,Free
+358,Dawn Farmer,dawn.farmer@yipa.com,57,Mombasa,Free,5,Digital Universe+
+359,Sarah Meyers,sarah.meyers@yipa.com,23,Nairobi,Free,4,Free
+360,Laura Lewis,laura.lewis@yipa.com,42,Kumasi,Free,3,Digital Universe+
+361,Gina Patel,gina.patel@yipa.com,21,Nairobi,Free,4,Digital Universe+
+362,Tracy Johnson,tracy.johnson@yipa.com,27,Abuja,Free,3,Free
+363,Jennifer Bush,jennifer.bush@yipa.com,44,Kumasi,Free,2,Free
+364,Jamie Howard,jamie.howard@yipa.com,30,Lagos,Free,3,Free
+365,Kristina Walker,kristina.walker@yipa.com,26,Accra,Digital Universe+,4,Free
+366,Jerry Miller,jerry.miller@yipa.com,23,Lagos,Free,3,Free
+367,Daniel Mccarthy,daniel.mccarthy@yipa.com,46,Abuja,Free,5,Free
+368,Julie Lee,julie.lee@yipa.com,41,Mombasa,Free,4,Digital Universe+
+369,Brittney Kemp,brittney.kemp@yipa.com,45,Kumasi,Free,5,Digital Universe+
+370,Lisa Gay,lisa.gay@yipa.com,24,Lagos,Free,2,Free
+371,John Huffman,john.huffman@yipa.com,27,Accra,Digital Universe+,2,Digital Universe+
+372,Amber Glass,amber.glass@yipa.com,30,Kumasi,Free,4,Digital Universe+
+373,David Ray,david.ray@yipa.com,37,Nairobi,Digital Universe+,4,Free
+374,Richard Lee,richard.lee@yipa.com,47,Lagos,Free,4,Digital Universe+
+375,Jason Burns,jason.burns@yipa.com,23,Lagos,Free,5,Digital Universe+
+376,Brian Garcia,brian.garcia@yipa.com,20,Abuja,Free,4,Digital Universe+
+377,Marie Munoz,marie.munoz@yipa.com,26,Nairobi,Digital Universe+,4,Free
+378,Alexis Garner,alexis.garner@yipa.com,25,Accra,Free,1,Digital Universe+
+379,Andrew Lamb,andrew.lamb@yipa.com,63,Lagos,Free,4,Free
+380,Austin Simmons,austin.simmons@yipa.com,21,Lagos,Free,4,Digital Universe+
+381,Amber Bryant,amber.bryant@yipa.com,47,Accra,Free,4,Free
+382,Gregory Clark,gregory.clark@yipa.com,18,Lagos,Free,5,Digital Universe+
+383,Brandon Robinson,brandon.robinson@yipa.com,37,Lagos,Digital Universe+,4,Digital Universe+
+384,Nicole Collier,nicole.collier@yipa.com,64,Nairobi,Free,4,Free
+385,Emily Bennett,emily.bennett@yipa.com,24,Lagos,Free,1,Free
+386,Dominique Tanner,dominique.tanner@yipa.com,46,Abuja,Free,3,Digital Universe+
+387,Marcus Silva,marcus.silva@yipa.com,40,Lagos,Digital Universe+,4,Free
+388,Wayne Bailey,wayne.bailey@yipa.com,37,Lagos,Digital Universe+,4,Digital Universe+
+389,Diana Singleton,diana.singleton@yipa.com,26,Kumasi,Digital Universe+,5,Free
+390,Meagan Nguyen,meagan.nguyen@yipa.com,29,Nairobi,Free,5,Digital Universe+
+391,Julie Hodges,julie.hodges@yipa.com,30,Kumasi,Free,3,Digital Universe+
+392,Brenda Maldonado,brenda.maldonado@yipa.com,27,Accra,Free,3,Digital Universe+
+393,Jeffery Bailey,jeffery.bailey@yipa.com,29,Abuja,Free,4,Digital Universe+
+394,Kyle Turner,kyle.turner@yipa.com,26,Abuja,Free,4,Free
+395,Ronald Phillips,ronald.phillips@yipa.com,39,Nairobi,Free,5,Free
+396,Linda Terrell,linda.terrell@yipa.com,26,Accra,Free,1,Free
+397,Sarah Deleon,sarah.deleon@yipa.com,26,Lagos,Digital Universe+,1,Free
+398,Robert Choi,robert.choi@yipa.com,27,Kumasi,Digital Universe+,4,Free
+399,Cole Thomas,cole.thomas@yipa.com,49,Lagos,Free,1,Digital Universe+
+400,David Powers,david.powers@yipa.com,50,Kumasi,Free,1,Digital Universe+
+401,Patricia Carter,patricia.carter@yipa.com,23,Nairobi,Free,1,Free
+402,Terrance Walker,terrance.walker@yipa.com,27,Accra,Free,5,Free
+403,Martin Clark,martin.clark@yipa.com,20,Lagos,Free,5,Digital Universe+
+404,Sharon Cook,sharon.cook@yipa.com,21,Abuja,Digital Universe+,5,Free
+405,Jamie Bruce,jamie.bruce@yipa.com,20,Lagos,Free,5,Free
+406,Charlene Fuentes,charlene.fuentes@yipa.com,20,Accra,Free,5,Free
+407,John Castillo,john.castillo@yipa.com,36,Abuja,Free,3,Free
+408,Brian Ramos,brian.ramos@yipa.com,30,Abuja,Digital Universe+,5,Free
+409,Derek Peterson,derek.peterson@yipa.com,20,Nairobi,Free,5,Free
+410,Veronica White,veronica.white@yipa.com,63,Lagos,Digital Universe+,5,Free
+411,Elizabeth Bryan,elizabeth.bryan@yipa.com,63,Lagos,Free,5,Digital Universe+
+412,Brandon Wood,brandon.wood@yipa.com,19,Nairobi,Free,2,Free
+413,Heidi Khan,heidi.khan@yipa.com,21,Kumasi,Digital Universe+,3,Digital Universe+
+414,Trevor Miller,trevor.miller@yipa.com,56,Kumasi,Free,3,Digital Universe+
+415,Jennifer Gentry,jennifer.gentry@yipa.com,19,Lagos,Free,5,Digital Universe+
+416,Mary Terry,mary.terry@yipa.com,22,Nairobi,Digital Universe+,5,Free
+417,Angela Brown,angela.brown@yipa.com,29,Lagos,Free,5,Free
+418,Brandon Webb,brandon.webb@yipa.com,22,Lagos,Free,5,Digital Universe+
+419,William Cochran,william.cochran@yipa.com,53,Lagos,Free,3,Free
+420,John Terry,john.terry@yipa.com,42,Accra,Free,5,Free
+421,James Jones,james.jones@yipa.com,18,Kumasi,Free,4,Free
+422,Kimberly Johnson,kimberly.johnson@yipa.com,25,Abuja,Free,5,Digital Universe+
+423,James Jacobson,james.jacobson@yipa.com,20,Lagos,Digital Universe+,5,Free
+424,Dominique Peck,dominique.peck@yipa.com,29,Abuja,Free,2,Free
+425,Dominic Meyers,dominic.meyers@yipa.com,20,Nairobi,Free,4,Free
+426,Laura Garcia,laura.garcia@yipa.com,31,Abuja,Free,5,Digital Universe+
+427,Matthew Smith,matthew.smith@yipa.com,30,Lagos,Free,5,Digital Universe+
+428,Brian Perry,brian.perry@yipa.com,23,Kumasi,Free,4,Digital Universe+
+429,Scott Gonzales,scott.gonzales@yipa.com,44,Abuja,Digital Universe+,4,Digital Universe+
+430,Rachel Nolan,rachel.nolan@yipa.com,28,Lagos,Free,5,Free
+431,Patricia Maynard,patricia.maynard@yipa.com,52,Lagos,Digital Universe+,5,Digital Universe+
+432,Douglas Farrell,douglas.farrell@yipa.com,28,Accra,Free,1,Digital Universe+
+433,Amy Torres,amy.torres@yipa.com,18,Lagos,Free,4,Digital Universe+
+434,Robert Rojas,robert.rojas@yipa.com,33,Nairobi,Digital Universe+,4,Free
+435,Kevin Smith,kevin.smith@yipa.com,24,Lagos,Free,4,Digital Universe+
+436,Michael Merritt,michael.merritt@yipa.com,27,Mombasa,Digital Universe+,5,Digital Universe+
+437,Stacy Mathews,stacy.mathews@yipa.com,62,Nairobi,Free,3,Digital Universe+
+438,Teresa Wilson,teresa.wilson@yipa.com,21,Kumasi,Free,4,Free
+439,Derek Jordan,derek.jordan@yipa.com,22,Mombasa,Digital Universe+,4,Free
+440,Christopher Mcneil,christopher.mcneil@yipa.com,22,Lagos,Digital Universe+,4,Digital Universe+
+441,Anthony Roth,anthony.roth@yipa.com,26,Accra,Digital Universe+,3,Digital Universe+
+442,Ryan Kim,ryan.kim@yipa.com,62,Lagos,Digital Universe+,5,Free
+443,William Peterson,william.peterson@yipa.com,20,Accra,Digital Universe+,3,Free
+444,Madeline Norris,madeline.norris@yipa.com,21,Abuja,Free,4,Digital Universe+
+445,Matthew Torres,matthew.torres@yipa.com,19,Accra,Free,5,Free
+446,Brandi Shaw,brandi.shaw@yipa.com,20,Lagos,Digital Universe+,5,Digital Universe+
+447,Suzanne Gray,suzanne.gray@yipa.com,30,Accra,Digital Universe+,2,Free
+448,Joyce Floyd,joyce.floyd@yipa.com,20,Mombasa,Free,4,Digital Universe+
+449,Leah Smith,leah.smith@yipa.com,18,Abuja,Digital Universe+,5,Digital Universe+
+450,Rachel Wright,rachel.wright@yipa.com,28,Lagos,Free,4,Digital Universe+
+451,Carrie Martinez,carrie.martinez@yipa.com,18,Nairobi,Free,4,Digital Universe+
+452,Mariah Briggs,mariah.briggs@yipa.com,65,Abuja,Digital Universe+,4,Free
+453,Jessica Chavez,jessica.chavez@yipa.com,44,Mombasa,Free,5,Free
+454,Elizabeth Marsh,elizabeth.marsh@yipa.com,19,Kumasi,Digital Universe+,5,Free
+455,Adam Garcia,adam.garcia@yipa.com,22,Accra,Digital Universe+,3,Free
+456,Keith Ramirez,keith.ramirez@yipa.com,28,Abuja,Digital Universe+,5,Free
+457,Jacob Johnson,jacob.johnson@yipa.com,46,Lagos,Free,4,Free
+458,Kristy Thomas,kristy.thomas@yipa.com,64,Accra,Free,5,Digital Universe+
+459,Jordan Adams,jordan.adams@yipa.com,27,Kumasi,Free,3,Free
+460,Damon Davis,damon.davis@yipa.com,25,Nairobi,Free,2,Free
+461,Jacqueline Joyce,jacqueline.joyce@yipa.com,30,Nairobi,Free,4,Digital Universe+
+462,Samantha Bell,samantha.bell@yipa.com,22,Mombasa,Free,5,Free
+463,Michelle Love,michelle.love@yipa.com,50,Lagos,Digital Universe+,2,Digital Universe+
+464,George Duran,george.duran@yipa.com,39,Mombasa,Free,4,Digital Universe+
+465,Allison Cook,allison.cook@yipa.com,41,Accra,Free,4,Digital Universe+
+466,Jeremy Jackson,jeremy.jackson@yipa.com,25,Lagos,Digital Universe+,4,Free
+467,Brenda Callahan,brenda.callahan@yipa.com,39,Abuja,Digital Universe+,3,Digital Universe+
+468,David Sanchez,david.sanchez@yipa.com,28,Nairobi,Digital Universe+,5,Digital Universe+
+469,Christopher Cooke,christopher.cooke@yipa.com,28,Kumasi,Free,4,Digital Universe+
+470,Linda Thomas,linda.thomas@yipa.com,19,Mombasa,Free,5,Free
+471,Joel Reyes,joel.reyes@yipa.com,53,Lagos,Digital Universe+,5,Free
+472,Susan Hart,susan.hart@yipa.com,28,Accra,Free,3,Free
+473,Taylor Lane,taylor.lane@yipa.com,22,Nairobi,Free,4,Free
+474,Christina Curtis,christina.curtis@yipa.com,56,Mombasa,Digital Universe+,2,Digital Universe+
+475,Robert Brown,robert.brown@yipa.com,22,Abuja,Free,4,Free
+476,Ashley Beltran,ashley.beltran@yipa.com,26,Abuja,Free,4,Digital Universe+
+477,Adam Larson,adam.larson@yipa.com,18,Nairobi,Free,4,Digital Universe+
+478,Samuel Chan,samuel.chan@yipa.com,37,Accra,Digital Universe+,5,Digital Universe+
+479,George Andrade,george.andrade@yipa.com,29,Mombasa,Free,4,Digital Universe+
+480,Bonnie Adams,bonnie.adams@yipa.com,54,Nairobi,Free,4,Free
+481,Justin Moore,justin.moore@yipa.com,35,Lagos,Digital Universe+,2,Free
+482,Angel Levine,angel.levine@yipa.com,26,Lagos,Free,5,Digital Universe+
+483,Ronald White,ronald.white@yipa.com,22,Lagos,Free,4,Free
+484,David Diaz,david.diaz@yipa.com,21,Nairobi,Free,5,Free
+485,Melissa Fitzpatrick,melissa.fitzpatrick@yipa.com,36,Accra,Digital Universe+,5,Free
+486,Christine Bailey,christine.bailey@yipa.com,27,Abuja,Free,5,Free
+487,Ethan Rogers,ethan.rogers@yipa.com,29,Mombasa,Free,4,Digital Universe+
+488,Christopher Morton,christopher.morton@yipa.com,51,Nairobi,Free,4,Digital Universe+
+489,Alyssa Reese,alyssa.reese@yipa.com,20,Nairobi,Free,3,Free
+490,Willie Pena,willie.pena@yipa.com,25,Lagos,Free,4,Digital Universe+
+491,Henry Ortiz,henry.ortiz@yipa.com,20,Abuja,Free,1,Digital Universe+
+492,Jeffrey Washington,jeffrey.washington@yipa.com,18,Mombasa,Free,5,Free
+493,Mark Cook,mark.cook@yipa.com,25,Abuja,Free,4,Digital Universe+
+494,Desiree Holloway,desiree.holloway@yipa.com,46,Abuja,Digital Universe+,2,Free
+495,Maria Cline,maria.cline@yipa.com,43,Lagos,Free,4,Free
+496,Krystal Manning,krystal.manning@yipa.com,29,Nairobi,Digital Universe+,5,Free
+497,Daniel Watts,daniel.watts@yipa.com,24,Lagos,Free,5,Digital Universe+
+498,Mike Pacheco,mike.pacheco@yipa.com,25,Lagos,Digital Universe+,3,Free
+499,Christina Freeman,christina.freeman@yipa.com,64,Accra,Free,4,Free
+500,Jessica Curtis,jessica.curtis@yipa.com,39,Accra,Free,4,Digital Universe+
